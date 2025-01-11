@@ -1,0 +1,33 @@
+- Build Real-Time Twitter Analytics Dashboard - Power BI
+- Build Real time Google Play store data analytics - python
+- Learn To Build A Real Time Job Analytics Portal - Tableu
+
+
+Steps to reproduce the Task.
+Task 01: Build a pie chart that represents the proportion of total clicks (URL clicks, user profile clicks, and hashtag clicks) for tweets with more than 500 impressions. Include a drill-down to view the specific types of clicks for each tweet.
+
+
+step-1:created a dataset for doing dashboard on tweet analysis
+step-2:These task was done in power Bi desktop
+step-3:Task making a pie chart represents the proportion of total clicks for tweets with more than 500 impressions.
+step-4:Included a drill-down to view the specific types of clicks for each tweet.
+step-5: by this i completed my first task of creating pie chart. all the necessary files were upload in GitHub repo.
+
+
+Task 02: Build a chart to identify the top 10 tweets by the sum of retweets and likes. Filter out tweets posted on weekends and show the user profile that posted each tweet and this graph should work only between 3PM IST to 5 PM IST apart from that time we should not show this graph in dashboard itself and the tweet impression should be even number and tweet date should be odd number as well as tweet word count be below 30.
+
+
+step-6:my second task is creating a Build a chart to identify the top 10 tweets by the sum of retweets and likes.
+step-7: imported the data and created required columns and filtered the each one. Filtered out tweets posted on weekends and show the user profile that posted each tweet and this graph should work only between 3PM IST to 5 PM IST 
+step-8:the tweet impression should be even number and tweet date should be odd number as well as tweet word count be below 30
+step-9:by these requirements i completed my second task.  all the necessary files were upload in GitHub repo.
+
+Task 03: Analyze tweets to show a comparison of the engagement rate for tweets with app opens versus tweets without app opens. Include only tweets posted between 9 AM and 5 PM on weekdays and this graph should work only between 12PM IST to 6PM IST and 7 AM to 11AM apart from that time we should not show this graph in dashboard itself and the tweet impression should be even number and tweet date should be odd number as well as tweet character count should be above 30 and need to remove tweet word which has letter 'D'.
+
+
+step-10: my third task is Analyzing the tweets to show a comparison of the engagement rate for tweets with app opens versus tweets without app opens.
+step-11: loaded the data and made required columns and filters Included only tweets posted between 9 AM and 5 PM on weekdays and this graph will work only between 12PM IST to 6PM IST and 7 AM to 11AM 
+step-12:the tweet impression in even number and tweet date is in odd number as well as tweet character count is in above 30 and removed tweet word which has letter 'D'.
+step-13:by all these requirements i completed my third task 
+
+For all three tasks I was upload the all necessary files required. All tasks were done in Power BI.
