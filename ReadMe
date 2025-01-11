@@ -3,7 +3,7 @@
 - Learn To Build A Real Time Job Analytics Portal - Tableu
 
 
-Steps to reproduce the Task.
+Steps to reproduce the Task.    
 Task 01: Build a pie chart that represents the proportion of total clicks (URL clicks, user profile clicks, and hashtag clicks) for tweets with more than 500 impressions. Include a drill-down to view the specific types of clicks for each tweet.
 
 
